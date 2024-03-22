@@ -12,4 +12,4 @@ Environment variables:
  - APP_DIR
  - CLOUDFLARE_EMAIL
  - CLOUDFLARE_API_TOKEN
- - ACTUAL_DOMAIN
+ - DOMAIN
