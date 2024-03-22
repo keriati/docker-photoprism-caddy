@@ -1,0 +1,6 @@
+{$DOMAIN}:443 {
+    tls {$CLOUDFLARE_EMAIL} {
+        dns cloudflare {$CLOUDFLARE_API_TOKEN}
+    }
+    reverse_proxy photoprism:2342
+}
