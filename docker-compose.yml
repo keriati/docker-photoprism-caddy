@@ -148,7 +148,7 @@ services:
     environment:
       - CLOUDFLARE_EMAIL=${CLOUDFLARE_EMAIL}
       - CLOUDFLARE_API_TOKEN=${CLOUDFLARE_API_TOKEN}
-      - ACTUAL_DOMAIN=${DOMAIN}
+      - DOMAIN=${DOMAIN}
       - ACME_AGREE=true
     restart: unless-stopped
 

@@ -13,3 +13,4 @@ Environment variables:
  - CLOUDFLARE_EMAIL
  - CLOUDFLARE_API_TOKEN
  - DOMAIN
+ - SITE_URL
