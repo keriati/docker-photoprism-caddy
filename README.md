@@ -1,6 +1,6 @@
 # Photoprism with Caddy and MariaDB
 
-Use Photoprism with green https on your local network.
+Use Photoprism with green https on your local network with cloudflare and caddy.
 
 Requirements
  - Own domain
